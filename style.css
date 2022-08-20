@@ -1,0 +1,14 @@
+* {
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+main {
+  display: flex;
+}
+
+.mensagem {
+  background-image: url(imagens/interrogacao.png);
+}
